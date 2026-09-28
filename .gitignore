@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Engine bundles (hundreds of MB, and only valid for the GPU + TensorRT version that built them)
+engines/
